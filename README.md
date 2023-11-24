@@ -1,4 +1,4 @@
-# ROS2 SLAM+VISION SIMULAITON
+# ROS2 SLAM+VISION SIMULATION
 
 This repository was create to share the files used in my article. Here, we have most of the files i've used.
 
