@@ -5,6 +5,16 @@ This repository was create to share the files used in my article. Here, we have 
 ## Requirements
 - Ubuntu 22.04
 - ROS2 Humble
-- Gazebo
+- Turtlebot3 and Gazebo
 - slam_toolbox
-- nav2
+- Navigation2
+- YOLOv8
+
+## SLAM_TOOLBOX
+https://github.com/SteveMacenski/slam_toolbox
+
+## Navigation2
+https://github.com/ros-planning/navigation2
+
+## YOLOv8
+ultralytics
